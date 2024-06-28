@@ -1,1 +1,1 @@
-# animation
+# SPA simples feito com js vanilla
